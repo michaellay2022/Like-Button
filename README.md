@@ -1,3 +1,3 @@
 # Like-Button
 
-![alt text](https://github.com/michaellay2022/Profile-Page-In-Progress/blob/main/Profile.JPG?raw=true)
+![alt text](https://github.com/michaellay2022/Like-Button/blob/main/Picture.JPG?raw=true)
